@@ -41,12 +41,12 @@
 ### 📊 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=atharva2004-dikondawar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Atharva's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-languages/?username=atharva2004-dikondawar&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=atharva2004-dikondawar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Atharva's GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-languages/?username=atharva2004-dikondawar&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva2004-dikondawar&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva2004-dikondawar&theme=tokyo-night&hide_border=true" width="97%" alt="Activity Graph" />
 </p>
 
 ---
