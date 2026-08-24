@@ -41,12 +41,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-languages/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=atharva2004-dikondawar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-languages/?username=atharva2004-dikondawar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva2004-dikondawar&theme=tokyonight&hide_border=true" width="97%" />
 
 </div>
 
