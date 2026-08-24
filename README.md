@@ -41,8 +41,8 @@
 ### 📊 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=atharva2004-dikondawar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Atharva's GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-languages/?username=atharva2004-dikondawar&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=atharva2004-dikondawar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Atharva's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-languages/?username=atharva2004-dikondawar&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
